@@ -37,7 +37,3 @@ pip install selenium pandas webdriver-manager gspread google-api-python-client
 ```
 python Unification-script.py
 ```
-
-## Примечание по безопасности
-
-Учетные данные в скрипте следует заменить на переменные окружения или другой безопасный метод хранения для продакшн-использования. 
