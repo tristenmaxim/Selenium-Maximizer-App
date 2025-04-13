@@ -16,8 +16,8 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 # Constants and configuration
-EMAIL = "x.maxtisten@gmail.com"
-PASSWORD = "d338fa1f-fe54-4a74-b4f9-5cc918050a65"
+EMAIL = "HE HE"
+PASSWORD = "HO HO"
 DOWNLOAD_DIR = "/Users/maximtristen/Desktop/Selenium | Maximizer app/Downloads"
 SCOPES = ['https://www.googleapis.com/auth/drive', 'https://www.googleapis.com/auth/spreadsheets']
 CREDENTIALS_PATH = os.path.join(os.path.dirname(__file__), 'poised-shuttle-454415-t3-445540f86d93.json')
